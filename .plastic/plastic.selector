@@ -1,0 +1,4 @@
+repository "HollowKnightDemo@dango12345@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
